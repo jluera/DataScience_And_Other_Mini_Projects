@@ -7,7 +7,7 @@ Place to put small test projects that are typically just playing around in Jupyt
 
 # 2_spark_certification_playround
 - Juptyer notebook from a PySpark practice session when preparing to take the "Databricks Certified Associate Developer for Apache Spark 3.0" exam.
-- Keeping this mainly as a quick reference to demonstrate how easy it is to run Spark code in Google Colab now. 
+- Keeping this mainly as a quick reference to demonstrate how easy it is to run simple PySpark code in Google Colab now. 
 - Many older articles show a lot of imports and other steps that are no longer necessary.
 
 # 3_soccer_statsbomb_radar_charts_test1
