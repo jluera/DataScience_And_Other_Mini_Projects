@@ -11,5 +11,5 @@ Place to put small test projects that are typically just playing around in Jupyt
 - Many older articles show a lot of imports and other steps that are no longer necessary.
 
 # 3_soccer_statsbomb_radar_charts_test1
-- Just testing some Statsbomb radar charts in Jupyter.
+- Just testing some Statsbomb radar charts in Jupyter, comparing stats for Tottenham midfielders Deli Alli and Harry Winks.
 - https://statsbomb.com/articles/soccer/understanding-statsbomb-radars/
